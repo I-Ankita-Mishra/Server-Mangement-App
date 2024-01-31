@@ -1,4 +1,4 @@
-#  WEB UI Frontend
+#  Server Management App
 
 This project is the frontend part, created using React. It complements the REST API developed using Spring Boot by providing a user-friendly web interface to interact with the server data.
 
