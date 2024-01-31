@@ -1,6 +1,6 @@
 #  WEB UI Frontend
 
-This project is the frontend part of Kaiburr Task 4, created using React. It complements the REST API developed using Spring Boot (Kaiburr Task 1) by providing a user-friendly web interface to interact with the server data.
+This project is the frontend part, created using React. It complements the REST API developed using Spring Boot by providing a user-friendly web interface to interact with the server data.
 
 ## Table of Contents
 
